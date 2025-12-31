@@ -1,9 +1,9 @@
 # 🌦️ Aswan Weather Data Analysis & Machine Learning
 
-**Notebook Version by my pair Ezzeldin Salah:**  
+**Repository Version by my pair Ezzeldin Salah:**  
 https://github.com/huevvn/SolarPowerPredictionPhase2
 
-This notebook presents a comprehensive pipeline for **solar power prediction using meteorological data**, including data cleaning, extensive feature engineering, statistical analysis, and machine learning modeling for both **classification and regression**.
+This repository presents a comprehensive pipeline for **solar power prediction using meteorological data**, including data cleaning, extensive feature engineering, statistical analysis, and machine learning modeling for both **classification and regression**.
 
 ## Project
 Overview
